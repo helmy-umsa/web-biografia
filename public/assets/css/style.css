@@ -193,4 +193,10 @@ body {
     .map {
         height: 500px;
     }
+
+    .container.carousel-ads {
+    .carousel-item img {
+        height: 280px;
+    }
+}
 }
